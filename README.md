@@ -1,3 +1,5 @@
+<img src="https://github.com/ersinsecer/angular-8-cdk-drag-drop/blob/master/cikti.PNG">
+
 # ClientApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.1.
@@ -27,4 +29,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 
-<img src="https://github.com/ersinsecer/angular-8-cdk-drag-drop/blob/master/cikti.PNG">
+
